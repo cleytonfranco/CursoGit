@@ -36,6 +36,9 @@ namespace Primeiro
             {
                 Console.WriteLine("Maior área: Y");
             }
+
+            Console.WriteLine("Fim");
+            Console.WriteLine("Fim2");
         }
     }
 }
